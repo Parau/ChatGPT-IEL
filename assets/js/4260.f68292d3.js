@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchatgpt_iel=self.webpackChunkchatgpt_iel||[]).push([[4260],{4260:(e,c,t)=>{t.d(c,{createArchitectureServices:()=>a.S});var a=t(8183);t(5715)}}]);
