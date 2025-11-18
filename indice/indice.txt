@@ -6,12 +6,36 @@ markmap:
 # <img src="./indice/nivel1.svg" alt="Nível Curioso" style="height:3em;vertical-align:middle;padding:0;margin:0;border:0;" /> <a href="./docs/curioso/curioso-abertura" style="color:black;">Curioso</a> 
 ## Login
 - <a href="./docs/curioso/login/uso_pessoal" style="color:black;">Versão Grátis, Plus e Pro</a>  
-- <a href="./docs/curioso/login/uso_team" style="color:black;">Versão Team</a> 
+- <a href="./docs/curioso/login/uso_team" style="color:black;">Versão Business</a> 
+
 ## <a href="./docs/curioso/primeiros_exemplos" style="color:black;">Primeiros exemplos</a>  
-# <img src="./indice/nivel2.svg" alt="Nível Iniciação" style="height:3em;vertical-align:middle;padding:0;margin:0;border:0;" />Iniciação 
-- Vocabulário
-- Ferramentas <!-- markmap: fold -->
-# <img src="./indice/nivel3.svg" alt="Nível Explorador" style="height:3em;vertical-align:middle;padding:0;margin:0;border:0;" /> <a href="./docs/explorador/explorador-abertura" style="color:black;">Explorador</a> 
-# <img src="./indice/nivel4.svg" alt="Nível Construtor" style="height:3em;vertical-align:middle;padding:0;margin:0;border:0;" /> <a href="./docs/construtor/construtor-abertura" style="color:black;">Construtor</a> 
-# <img src="./indice/nivel5.svg" alt="Nível Criador" style="height:3em;vertical-align:middle;padding:0;margin:0;border:0;" /> <a href="./docs/criador/criador-abertura" style="color:black;">Criador</a> 
+## <a href="./docs/curioso/porqueChatGPT" style="color:black;">Por que ChatGPT?</a> 
+
+# <img src="./indice/nivel2.svg" alt="Nível Iniciação" style="height:3em;vertical-align:middle;padding:0;margin:0;border:0;" /><a href="./docs/iniciacao/iniciacao-abertura" style="color:black;">Iniciação</a> 
+## <a href="./docs/iniciacao/vocabulario" style="color:black;">Vocabulário</a>  
+## <a href="./docs/iniciacao/ferramentas" style="color:black;">Ferramentas do ChatGPT</a>  
+## <a href="./docs/iniciacao/modo-agente" style="color:black;">Modo Agente</a>  
+## <a href="./docs/iniciacao/limites-uso" style="color:black;">Limites de Uso</a>  
+
+# <img src="./indice/nivel3.svg" alt="Nível Explorador" style="height:3em;vertical-align:middle;padding:0;margin:0;border:0;" />Explorador
+## <a href="./docs/explorador/desmistificando" style="color:black;">Desmistificando o ChatGPT</a>  
+## <a href="./docs/explorador/criatividade" style="color:black;">Criatividade</a>  
+## <a href="./docs/explorador/alucinacao" style="color:black;">Alucinações</a>  
+## <a href="./docs/explorador/vies" style="color:black;">O viés</a>  
+## <a href="./docs/explorador/privacidade" style="color:black;">Privacidade</a> 
+
+# <img src="./indice/nivel4.svg" alt="Nível Construtor" style="height:3em;vertical-align:middle;padding:0;margin:0;border:0;" />Construtor
+## <a href="./docs/construtor/prompt" style="color:black;">Estrutura do prompt</a>  
+## <a href="./docs/construtor/prompt-dicas" style="color:black;">Dicas</a>  
+## <a href="./docs/construtor/oraculo/" style="color:black;">O Oráculo</a>  
+## <a href="./docs/construtor/modelos/" style="color:black;">Escolhendo o modelo</a>
+
+# <img src="./indice/nivel5.svg" alt="Nível Criador" style="height:3em;vertical-align:middle;padding:0;margin:0;border:0;" />Criador
+## <a href="./docs/criador/detetive" style="color:black;">Detetive ChatGPT</a>  
+## <a href="./docs/criador/vocabulario" style="color:black;">O poder das palavras</a>  
+## <a href="./docs/criador/peixe-ou-elefante" style="color:black;">Memória</a>  
+## <a href="./docs/criador/mudando-assunto" style="color:black;">Novo assunto? Nova conversa!</a>
+## <a href="./docs/criador/projetos" style="color:black;">Projetos</a>
+## <a href="./docs/criador/GPTs" style="color:black;">Construindo GPTs</a>
+
 # <img src="./indice/nivel6.svg" alt="Nível Estrategista" style="height:3em;vertical-align:middle;padding:0;margin:0;border:0;" />Estrategista
