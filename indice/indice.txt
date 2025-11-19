@@ -36,6 +36,10 @@ markmap:
 ## <a href="./docs/criador/peixe-ou-elefante" style="color:black;">Memória</a>  
 ## <a href="./docs/criador/mudando-assunto" style="color:black;">Novo assunto? Nova conversa!</a>
 ## <a href="./docs/criador/projetos" style="color:black;">Projetos</a>
-## <a href="./docs/criador/GPTs" style="color:black;">Construindo GPTs</a>
+## GPTs
+- <a href="./docs/criador/GPTs/" style="color:black;">Construindo GPTs</a>
+- <a href="./docs/criador/GPTs/Ferramenta" style="color:black;">GPT personalizado</a>
+- <a href="./docs/criador/GPTs/Exemplos" style="color:black;">Exemplo</a>
+
 
 # <img src="./indice/nivel6.svg" alt="Nível Estrategista" style="height:3em;vertical-align:middle;padding:0;margin:0;border:0;" />Estrategista
