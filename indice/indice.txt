@@ -29,6 +29,7 @@ markmap:
 ## <a href="./docs/construtor/prompt-dicas" style="color:black;">Dicas</a>  
 ## <a href="./docs/construtor/oraculo/" style="color:black;">O Oráculo</a>  
 ## <a href="./docs/construtor/modelos/" style="color:black;">Escolhendo o modelo</a>
+## <a href="./docs/construtor/markdown/" style="color:black;">Usando Markdown</a>
 
 # <img src="./indice/nivel5.svg" alt="Nível Criador" style="height:3em;vertical-align:middle;padding:0;margin:0;border:0;" />Criador
 ## <a href="./docs/criador/detetive" style="color:black;">Detetive ChatGPT</a>  
@@ -39,7 +40,8 @@ markmap:
 ## GPTs
 - <a href="./docs/criador/GPTs/" style="color:black;">Construindo GPTs</a>
 - <a href="./docs/criador/GPTs/Ferramenta" style="color:black;">GPT personalizado</a>
-- <a href="./docs/criador/GPTs/Exemplos" style="color:black;">Exemplo</a>
+- <a href="./docs/criador/GPTs/Exemplos" style="color:black;">Meu primeiro GPT</a>
+- <a href="./docs/criador/GPTs/AtaReuniao" style="color:black;">Gerador de Ata</a>
 
 
 # <img src="./indice/nivel6.svg" alt="Nível Estrategista" style="height:3em;vertical-align:middle;padding:0;margin:0;border:0;" />Estrategista
