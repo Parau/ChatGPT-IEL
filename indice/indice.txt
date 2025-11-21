@@ -43,5 +43,7 @@ markmap:
 - <a href="./docs/criador/GPTs/Exemplos" style="color:black;">Meu primeiro GPT</a>
 - <a href="./docs/criador/GPTs/AtaReuniao" style="color:black;">Gerador de Ata</a>
 
-
 # <img src="./indice/nivel6.svg" alt="Nível Estrategista" style="height:3em;vertical-align:middle;padding:0;margin:0;border:0;" />Estrategista
+## <a href="./docs/estrategista/respostas-prontas" style="color:black;">Respostas prontas</a>
+## <a href="./docs/estrategista/evitar-direcionamento" style="color:black;">Evite o direcionamento</a>
+## <a href="./docs/estrategista/template" style="color:black;">Templates</a>
